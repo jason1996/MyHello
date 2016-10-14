@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Hello</string>
+    <string name="click_me">Click me</string>
+    <string name="Hide" />
+    <string name="hide">hide</string>
+    <string name="showpic">showpic</string>
+</resources>
